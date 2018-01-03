@@ -55,9 +55,6 @@
   *  muse-ui
 
   ### 目录结构
-## 本地运行服务
-* 项目中有个server.js文件 打开终端 执行node server.js 
-* 在浏览器执行 http://localhost:2333/#/message
 <pre>
   .
   ├── README.md
@@ -92,6 +89,9 @@
   npm run build
 
   ```
+  ## 本地运行服务
+* 项目中有个server.js文件 打开终端 执行node server.js 
+* 在浏览器执行 http://localhost:2333/#/message
  ### LICENSE
  
  [MIT](https://opensource.org/licenses/MIT)
