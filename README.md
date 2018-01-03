@@ -92,8 +92,4 @@
   ## 本地运行服务
 * 项目中有个server.js文件 打开终端 执行node server.js 
 * 在浏览器执行 http://localhost:2333/#/message
- ### LICENSE
- 
- [MIT](https://opensource.org/licenses/MIT)
- 
- Copyright (c) 2017.9-present, Zhenbang Lv
+
